@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+set -e
+eval cd /Applications/XAMPP/htdocs/n21comt/bleiben
+"/Applications/Visual Studio Code.app/Contents/MacOS/Electron" .

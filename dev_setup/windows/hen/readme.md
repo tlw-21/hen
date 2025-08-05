@@ -1,0 +1,72 @@
+# Machines
+
+## HUAWEI-14-HEN-WORKSTATION
+- Blender (Basics)
+- Visual Studio
+  - C# (ASPNet MVC, Console Applications, Algorithms)
+  - C++ (Windows Native Development, basic console applications, Algorithms)
+- NVM
+  - ExpressJS
+      - Basic API development
+      - MVC playground
+  - Angular
+  - React
+  - Vue
+  - ElectronJS (Desktop Web Applications)
+  - Svelte
+  - WebGL (Basic Development in ThreeJS)
+- Terraform (Basics)
+- Python3
+  - Simple Flask Development
+  - Basic Django
+  - Celery testing
+  - Algorithms Playground
+- rust
+  - Scripting
+- Elixir
+  - Phoenix (Basic API development)
+  - Algorithms Playground
+- Xampp
+  - PHP (Full stack Development)
+    - PHP CLI scripts (Shared between Mac and Windows)
+    - Laravel Development
+- Java
+  - Springboot (Basic API Development)
+  - Algorithms Playground
+ 
+
+
+## MACBOOK-PRO-15
+- Visual Studio
+  - C# (Console Applications, Algorithms)
+- NVM
+  - ExpressJS
+      - Basic API development
+      - MVC playground
+  - Angular
+  - React
+  - Vue
+  - Svelte
+  - WebGL (ThreeJS)
+- Blender (3D Design)
+- Python3
+  - Flask Development
+  - Django
+  - Celery
+  - Scripting
+  - Algorithms Playground
+- Elixir
+  - Phoenix (API development)
+  - Scripting
+  - Algorithms Playground
+- Ruby
+  - Rails (MVC, API development)
+  - Scripting
+  - Algorithms Playground
+- Xampp
+  - PHP (Full stack Development)
+    - PHP CLI scripts (Shared between Mac and Windows)
+    - Laravel Development
+- Java
+  - Springboot (MVC, API Development)
+  - Algorithms Playground
